@@ -1,2 +1,2 @@
 # curso-python
-Algoritmos para aprendizagem de logica de programação em python
+Algoritmos de logica de programação desenvolvido durante mini curso de python
